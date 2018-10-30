@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    android:paddingTop="20dp"
+    tools:context="com.kre8tive.quizapp.IntroActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/interstatebold"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="THE BALLANTINE'S JARGONAUT"
+        android:textColor="@color/white"
+        android:textSize="35sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/interstatebold"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="IS CORPORATE JARGON A PART OF YOUR COMPETENCY SET?  OR IS IT AN IMPROVEMENT POINT ON YOUR KRA? LEVERAGE THIS MOMENT TO TEST YOUR KNOWLEDGE OF CORPORATE SPEAK AND BE REWARDED !
+"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+
+
+
+</LinearLayout>
